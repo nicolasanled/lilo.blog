@@ -80,6 +80,4 @@ Die Verlockung eine KI für die Analyse eines Films oder zum Schreiben eines Tex
 
 Die Experten Christian Matt und Christoff Zurschmitten betonen die Notwendigkeit zu lernen, wie mit einer KI umgeht und diese als Partner zu sehen. Sie haben beide gesagt, dass die KI viele neue Möglichkeiten bietet, man allerdings bei der Verwendung aufpassen muss. Laurent Stettbacher hat seine Bedenken und Erfahrungen über potenzielle Fehlinformationen bei der Verwendung von KI gegenüber uns geäussert. Trotz diesen Problemen sollte KI nicht verboten werden, denn man wird sie im späteren Berufsleben immer wieder gebrauchen. 
 
-Zuerst der Taschenrechner, dann das Internet, die Übersetzer und Rechtschreibehilfen, jetzt die KI. Was wird es wohl in der Zukunft geben? 
-
-***Interviews:***
+Zuerst der Taschenrechner, dann das Internet, die Übersetzer und Rechtschreibehilfen, jetzt die KI. Was wird es wohl in der Zukunft geben?
