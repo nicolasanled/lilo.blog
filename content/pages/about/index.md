@@ -1,13 +1,13 @@
 +++
 title = "About me"
 draft = false
-description = ""
 image = "/img/default-author.jpg"
+description = ""
 +++
-![](/img/default-author.jpg)
+![](bild-fu-r-blog.jpeg)
 
 ## My Name
 
-mail@example.org
+nicolas.ledermann@icloud.com
 
-Here should be some info about me...
+Schüler im Gym Kirchenfeld
